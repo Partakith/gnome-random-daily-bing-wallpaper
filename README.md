@@ -5,4 +5,6 @@ For Manual Installation: Open your "/home/username/.local/share/gnome-shell/exte
 
 and create a folder named "bing-wallpaper-changer@partakith" place in the folder
 
-the extension.js metadata.json and set_wallpaper.sh
+the extension.js, metadata.json and set_wallpaper.sh files from here.
+
+then reload via terminal or logout "sudo systemctl restart gdm"
