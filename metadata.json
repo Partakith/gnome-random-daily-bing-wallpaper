@@ -3,6 +3,6 @@
     "description": "Automatically updates your wallpaper with an image from one of Bing's galleries. Turn on/off to change your wallpaper quickly",
     "shell-version": ["3.36", "3.38", "40", "42", "43", "44", "45", "46", "47", "48", "49", "50", "52", "54", "56"],
     "uuid": "bing-wallpaper-changer@partakith.github.io",
-    "url": "https://github.com/Partakith/gnome-random-bing-wallpaper",
+    "url": "https://github.com/Partakith/gnome-random-daily-bing-wallpaper",
     "version": 1
 }
