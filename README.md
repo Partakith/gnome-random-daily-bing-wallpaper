@@ -8,3 +8,9 @@ and create a folder named "bing-wallpaper-changer@partakith" place in the folder
 the extension.js, metadata.json and set_wallpaper.sh files from here.
 
 then reload via terminal or logout "sudo systemctl restart gdm"
+
+It should then show up in your Extensions and enable. You may then enable/disable it to change the daily photo via their galleries. It also works on login/logout.
+
+Was for myself and learning but doesn't hurt to share! Enjoy. Pretty simple extension.
+
+
